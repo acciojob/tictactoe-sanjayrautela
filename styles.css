@@ -3,6 +3,12 @@ body {
   font-family: Arial, sans-serif;
   margin: 30px;
 }
+#player-1{
+	color:black;
+}
+#player-2{
+	color:black;
+}
 
 
 .container {
